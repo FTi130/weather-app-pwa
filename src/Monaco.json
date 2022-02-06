@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "date": "2022-02-04",
+    "minTemp": "2",
+    "maxTemp": "3"
+  },
+  {
+    "id": 2,
+    "date": "2022-02-04",
+    "minTemp": "4",
+    "maxTemp": "31"
+  },
+  {
+    "id": 3,
+    "date": "2022-02-04",
+    "minTemp": "11",
+    "maxTemp": "15"
+  },
+  {
+    "id": 4,
+    "date": "2022-02-04",
+    "minTemp": "5",
+    "maxTemp": "20"
+  },
+  {
+    "id": 5,
+    "date": "2022-02-04",
+    "minTemp": "7",
+    "maxTemp": "35"
+  },
+  {
+    "id": 6,
+    "date": "2022-02-04",
+    "minTemp": "8",
+    "maxTemp": "22"
+  },
+  {
+    "id": 7,
+    "date": "2022-02-04",
+    "minTemp": "5",
+    "maxTemp": "20"
+  },
+  {
+    "id": 8,
+    "date": "2022-02-04",
+    "minTemp": "7",
+    "maxTemp": "35"
+  },
+  {
+    "id": 9,
+    "date": "2022-02-04",
+    "minTemp": "8",
+    "maxTemp": "22"
+  }
+]
